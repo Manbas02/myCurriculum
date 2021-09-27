@@ -7,7 +7,7 @@ body{
     font-family: 'Patrick Hand', cursive;
 }
 #target{
-    background: url(/Img/headerBackground.png);
+    background: url(Img/headerBackground.png);
     background-size: 100%;
     width: 100%;
     height: 400px;
