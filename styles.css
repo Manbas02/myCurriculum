@@ -97,3 +97,43 @@ body{
         font-size: 12px;
     }
 }
+@media(min-width:1980px){
+    #target{
+        height: 500px;
+    }
+    .Item_1 img{
+        width: 230px;
+    }
+    .Item_2 p{
+        font-size: 1.7rem;
+    }
+    #sections{
+        margin-left: 25%;
+        margin-right: 25%;   
+    }
+    
+    .container_header{
+        margin-top: 3%;
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+    .container_header div nav svg{
+        width: 60px;
+        height: 60px;
+    }
+    .container_header div nav a{
+        font-size: 1.7rem;
+    }
+    .habilities{
+        font-size: 2rem;
+    }
+    .estudios{
+        font-size: 2rem;
+    }
+    h2{
+        font-size: 3rem;
+    }
+    .referencias{
+        font-size: 2rem;
+    }
+}
