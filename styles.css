@@ -56,14 +56,44 @@ body{
     justify-content: space-between;
 }
 @media(max-width:1100px){
-    .Item_1 img{
-        width: 120px
+        #target{
+        height: 250px;
+        margin-top: 0;
+        margin-bottom: 10px;
+        margin-left: 0;
+        margin-right: 0;
     }
-    .Item_2 p a{
-        font-size: 1rem
+    .Item_1 img{
+        width: 120px;
+    }
+    .Item_2 p{
+        font-size: 12px;
     }
     #sections{
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    
+    .container_header{
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+    .container_header div nav svg{
+        width: 30px;
+    }
+    .container_header div nav a{
+        font-size: 12px;
+    }
+    .habilities{
+        font-size: 12px;
+    }
+    .estudios{
+        font-size: 12px;
+    }
+    h2{
+        font-size: 16px;
+    }
+    .referencias{
+        font-size: 12px;
     }
 }
